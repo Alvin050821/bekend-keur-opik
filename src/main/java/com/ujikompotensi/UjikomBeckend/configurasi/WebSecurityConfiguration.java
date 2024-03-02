@@ -1,5 +1,5 @@
 package com.ujikompotensi.UjikomBeckend.configurasi;
-//test
+
 
 import com.ujikompotensi.UjikomBeckend.enums.UserRole;
 import com.ujikompotensi.UjikomBeckend.services.jwt.UserService;
